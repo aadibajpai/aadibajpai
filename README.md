@@ -9,9 +9,9 @@ If there's something you'd still like to know then let me know and I'll add it h
 
 Recent activity so people can stop saying I do nothing:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2472](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/pull/2472) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-2. ❗️ Opened issue [#2](https://github.com//jamesgeorge007/github-activity-readme/issues/2) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#24](https://github.com//pavlodvornikov/aiocfscrape/issues/24) in [pavlodvornikov/aiocfscrape](https://github.com//pavlodvornikov/aiocfscrape)
+1. 🗣 Commented on [#2472](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2472) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+2. 💪 Opened PR [#2472](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/pull/2472) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+3. ❗️ Opened issue [#2](https://github.com//jamesgeorge007/github-activity-readme/issues/2) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 4. 🗣 Commented on [#24](https://github.com//pavlodvornikov/aiocfscrape/issues/24) in [pavlodvornikov/aiocfscrape](https://github.com//pavlodvornikov/aiocfscrape)
-5. 💪 Opened PR [#38](https://github.com//SwagLyrics/SwagLyrics-discord-bot/pull/38) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com//SwagLyrics/SwagLyrics-discord-bot)
+5. 🗣 Commented on [#24](https://github.com//pavlodvornikov/aiocfscrape/issues/24) in [pavlodvornikov/aiocfscrape](https://github.com//pavlodvornikov/aiocfscrape)
 <!--END_SECTION:activity-->
