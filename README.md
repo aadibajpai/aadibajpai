@@ -7,6 +7,7 @@ Another space for me to write about myself and I have no clue what to say becaus
 From there you can go on my website, from there you'll find my blog, onion service and everything else you'd want to find.
 If there's something you'd still like to know then let me know and I'll add it here.
 
+Recent activity so people can stop saying I do nothing:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#24](https://github.com//pavlodvornikov/aiocfscrape/issues/24) in [pavlodvornikov/aiocfscrape](https://github.com//pavlodvornikov/aiocfscrape)
 2. 🗣 Commented on [#24](https://github.com//pavlodvornikov/aiocfscrape/issues/24) in [pavlodvornikov/aiocfscrape](https://github.com//pavlodvornikov/aiocfscrape)
