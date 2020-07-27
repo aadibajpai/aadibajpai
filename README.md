@@ -9,9 +9,9 @@ If there's something you'd still like to know then let me know and I'll add it h
 
 Recent activity so people can stop saying I do nothing:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com//SwagLyrics/SwagLyrics-discord-bot/pull/42) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com//SwagLyrics/SwagLyrics-discord-bot)
-2. 🗣 Commented on [#38](https://github.com//SwagLyrics/swaglyrics-backend/issues/38) in [SwagLyrics/swaglyrics-backend](https://github.com//SwagLyrics/swaglyrics-backend)
-3. ❗️ Closed issue [#2](https://github.com//jamesgeorge007/github-activity-readme/issues/2) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 💪 Opened PR [#38](https://github.com//SwagLyrics/swaglyrics-backend/pull/38) in [SwagLyrics/swaglyrics-backend](https://github.com//SwagLyrics/swaglyrics-backend)
-5. 🗣 Commented on [#2484](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2484) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+1. ❗️ Closed issue [#2315](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2315) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+2. 🗣 Commented on [#2315](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2315) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+3. 🎉 Merged PR [#38](https://github.com//SwagLyrics/swaglyrics-backend/pull/38) in [SwagLyrics/swaglyrics-backend](https://github.com//SwagLyrics/swaglyrics-backend)
+4. 🎉 Merged PR [#37](https://github.com//SwagLyrics/swaglyrics-backend/pull/37) in [SwagLyrics/swaglyrics-backend](https://github.com//SwagLyrics/swaglyrics-backend)
+5. 💪 Opened PR [#42](https://github.com//SwagLyrics/SwagLyrics-discord-bot/pull/42) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com//SwagLyrics/SwagLyrics-discord-bot)
 <!--END_SECTION:activity-->
