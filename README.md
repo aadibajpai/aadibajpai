@@ -9,9 +9,9 @@ If there's something you'd still like to know then let me know and I'll add it h
 
 Recent activity so people can stop saying I do nothing:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2159](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/pull/2159) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-2. 💪 Opened PR [#3](https://github.com//zspherez/PalpatineBot/pull/3) in [zspherez/PalpatineBot](https://github.com//zspherez/PalpatineBot)
-3. 💪 Opened PR [#2](https://github.com//zspherez/PalpatineBot/pull/2) in [zspherez/PalpatineBot](https://github.com//zspherez/PalpatineBot)
-4. ❗️ Closed issue [#2488](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2488) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-5. 🗣 Commented on [#2488](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2488) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+1. 🗣 Commented on [#42](https://github.com//SwagLyrics/SwagLyrics-discord-bot/issues/42) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com//SwagLyrics/SwagLyrics-discord-bot)
+2. 🗣 Commented on [#42](https://github.com//SwagLyrics/SwagLyrics-discord-bot/issues/42) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com//SwagLyrics/SwagLyrics-discord-bot)
+3. 🗣 Commented on [#42](https://github.com//SwagLyrics/SwagLyrics-discord-bot/issues/42) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com//SwagLyrics/SwagLyrics-discord-bot)
+4. ❌ Closed PR [#2159](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/pull/2159) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+5. 💪 Opened PR [#3](https://github.com//zspherez/PalpatineBot/pull/3) in [zspherez/PalpatineBot](https://github.com//zspherez/PalpatineBot)
 <!--END_SECTION:activity-->
