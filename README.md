@@ -9,9 +9,9 @@ If there's something you'd still like to know then let me know and I'll add it h
 
 Recent activity so people can stop saying I do nothing:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com//SwagLyrics/swaglyrics-backend/issues/36) in [SwagLyrics/swaglyrics-backend](https://github.com//SwagLyrics/swaglyrics-backend)
-2. 🗣 Commented on [#42](https://github.com//SwagLyrics/SwagLyrics-discord-bot/issues/42) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com//SwagLyrics/SwagLyrics-discord-bot)
-3. 🗣 Commented on [#42](https://github.com//SwagLyrics/SwagLyrics-discord-bot/issues/42) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com//SwagLyrics/SwagLyrics-discord-bot)
-4. 🗣 Commented on [#42](https://github.com//SwagLyrics/SwagLyrics-discord-bot/issues/42) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com//SwagLyrics/SwagLyrics-discord-bot)
-5. ❌ Closed PR [#2159](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/pull/2159) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+1. ❗️ Closed issue [#1932](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/1932) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+2. ❗️ Closed issue [#1972](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/1972) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+3. ❗️ Closed issue [#1970](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/1970) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+4. ❗️ Closed issue [#1968](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/1968) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+5. ❗️ Closed issue [#1967](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/1967) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
 <!--END_SECTION:activity-->
