@@ -9,9 +9,9 @@ If there's something you'd still like to know then let me know and I'll add it h
 
 Recent activity so people can stop saying I do nothing:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1932](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/1932) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-2. ❗️ Closed issue [#1972](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/1972) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-3. ❗️ Closed issue [#1970](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/1970) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-4. ❗️ Closed issue [#1968](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/1968) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-5. ❗️ Closed issue [#1967](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/1967) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+1. ❗️ Closed issue [#2125](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2125) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+2. 🗣 Commented on [#2125](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2125) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+3. ❗️ Closed issue [#2473](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2473) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+4. ❗️ Closed issue [#2471](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2471) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+5. ❗️ Closed issue [#2470](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2470) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
 <!--END_SECTION:activity-->
