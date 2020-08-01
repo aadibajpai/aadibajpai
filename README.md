@@ -9,9 +9,9 @@ If there's something you'd still like to know then let me know and I'll add it h
 
 Recent activity so people can stop saying I do nothing:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2496](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2496) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-2. 🗣 Commented on [#2496](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2496) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-3. ❗️ Closed issue [#2495](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2495) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-4. 🗣 Commented on [#2495](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2495) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-5. 🗣 Commented on [#36](https://github.com//SwagLyrics/swaglyrics-backend/issues/36) in [SwagLyrics/swaglyrics-backend](https://github.com//SwagLyrics/swaglyrics-backend)
+1. 🗣 Commented on [#5](https://github.com//aadibajpai/blog/issues/5) in [aadibajpai/blog](https://github.com//aadibajpai/blog)
+2. ❗️ Closed issue [#2496](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2496) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+3. 🗣 Commented on [#2496](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2496) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+4. ❗️ Closed issue [#2495](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2495) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+5. 🗣 Commented on [#2495](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2495) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
 <!--END_SECTION:activity-->
