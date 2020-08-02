@@ -9,9 +9,9 @@ If there's something you'd still like to know then let me know and I'll add it h
 
 Recent activity so people can stop saying I do nothing:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com//aadibajpai/my-website/issues/9) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
+1. ❗️ Opened issue [#10](https://github.com//aadibajpai/my-website/issues/10) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
 2. 🗣 Commented on [#9](https://github.com//aadibajpai/my-website/issues/9) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
-3. ❗️ Opened issue [#9](https://github.com//aadibajpai/my-website/issues/9) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
-4. 🗣 Commented on [#5](https://github.com//aadibajpai/blog/issues/5) in [aadibajpai/blog](https://github.com//aadibajpai/blog)
-5. ❗️ Closed issue [#2496](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2496) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+3. 🗣 Commented on [#9](https://github.com//aadibajpai/my-website/issues/9) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
+4. ❗️ Opened issue [#9](https://github.com//aadibajpai/my-website/issues/9) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
+5. 🗣 Commented on [#5](https://github.com//aadibajpai/blog/issues/5) in [aadibajpai/blog](https://github.com//aadibajpai/blog)
 <!--END_SECTION:activity-->
