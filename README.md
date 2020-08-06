@@ -9,9 +9,9 @@ If there's something you'd still like to know then let me know and I'll add it h
 
 Recent activity so people can stop saying I do nothing:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com//aadibajpai/my-website/pull/11) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
-2. ❗️ Closed issue [#9](https://github.com//aadibajpai/my-website/issues/9) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
-3. 💪 Opened PR [#11](https://github.com//aadibajpai/my-website/pull/11) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
-4. 🗣 Commented on [#2208](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2208) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-5. ❗️ Closed issue [#2208](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2208) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+1. 🗣 Commented on [#15](https://github.com//aadibajpai/VandyPurger/issues/15) in [aadibajpai/VandyPurger](https://github.com//aadibajpai/VandyPurger)
+2. 💪 Opened PR [#15](https://github.com//aadibajpai/VandyPurger/pull/15) in [aadibajpai/VandyPurger](https://github.com//aadibajpai/VandyPurger)
+3. 🎉 Merged PR [#11](https://github.com//aadibajpai/my-website/pull/11) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
+4. ❗️ Closed issue [#9](https://github.com//aadibajpai/my-website/issues/9) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
+5. 💪 Opened PR [#11](https://github.com//aadibajpai/my-website/pull/11) in [aadibajpai/my-website](https://github.com//aadibajpai/my-website)
 <!--END_SECTION:activity-->
