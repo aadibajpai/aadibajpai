@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#692](https://github.com//VandyHacks/vaken/pull/692) in [VandyHacks/vaken](https://github.com//VandyHacks/vaken)
-2. 💪 Opened PR [#51](https://github.com//VandyHacks/2020-website/pull/51) in [VandyHacks/2020-website](https://github.com//VandyHacks/2020-website)
-3. 🗣 Commented on [#5021](https://github.com//microsoft/WSL/issues/5021) in [microsoft/WSL](https://github.com//microsoft/WSL)
-4. 🗣 Commented on [#2467](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2467) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
-5. 🎉 Merged PR [#2467](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/pull/2467) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
+1. 🗣 Commented on [#52](https://github.com//VandyHacks/2020-website/issues/52) in [VandyHacks/2020-website](https://github.com//VandyHacks/2020-website)
+2. 💪 Opened PR [#692](https://github.com//VandyHacks/vaken/pull/692) in [VandyHacks/vaken](https://github.com//VandyHacks/vaken)
+3. 💪 Opened PR [#51](https://github.com//VandyHacks/2020-website/pull/51) in [VandyHacks/2020-website](https://github.com//VandyHacks/2020-website)
+4. 🗣 Commented on [#5021](https://github.com//microsoft/WSL/issues/5021) in [microsoft/WSL](https://github.com//microsoft/WSL)
+5. 🗣 Commented on [#2467](https://github.com//SwagLyrics/SwagLyrics-For-Spotify/issues/2467) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com//SwagLyrics/SwagLyrics-For-Spotify)
 <!--END_SECTION:activity-->
