@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com//VandyHacks/2020-website/issues/53) in [VandyHacks/2020-website](https://github.com//VandyHacks/2020-website)
-2. 💪 Opened PR [#53](https://github.com//VandyHacks/2020-website/pull/53) in [VandyHacks/2020-website](https://github.com//VandyHacks/2020-website)
-3. 🗣 Commented on [#50](https://github.com//VandyHacks/2020-website/issues/50) in [VandyHacks/2020-website](https://github.com//VandyHacks/2020-website)
-4. 🗣 Commented on [#52](https://github.com//VandyHacks/2020-website/issues/52) in [VandyHacks/2020-website](https://github.com//VandyHacks/2020-website)
-5. 💪 Opened PR [#692](https://github.com//VandyHacks/vaken/pull/692) in [VandyHacks/vaken](https://github.com//VandyHacks/vaken)
+1. 🗣 Commented on [#692](https://github.com//VandyHacks/vaken/issues/692) in [VandyHacks/vaken](https://github.com//VandyHacks/vaken)
+2. 🗣 Commented on [#692](https://github.com//VandyHacks/vaken/issues/692) in [VandyHacks/vaken](https://github.com//VandyHacks/vaken)
+3. 🗣 Commented on [#53](https://github.com//VandyHacks/2020-website/issues/53) in [VandyHacks/2020-website](https://github.com//VandyHacks/2020-website)
+4. 💪 Opened PR [#53](https://github.com//VandyHacks/2020-website/pull/53) in [VandyHacks/2020-website](https://github.com//VandyHacks/2020-website)
+5. 🗣 Commented on [#50](https://github.com//VandyHacks/2020-website/issues/50) in [VandyHacks/2020-website](https://github.com//VandyHacks/2020-website)
 <!--END_SECTION:activity-->
