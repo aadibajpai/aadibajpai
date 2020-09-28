@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#692](https://github.com/VandyHacks/vaken/issues/692) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
-2. 💪 Opened PR [#54](https://github.com/SwagLyrics/SwagLyrics-discord-bot/pull/54) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com/SwagLyrics/SwagLyrics-discord-bot)
-3. 🗣 Commented on [#692](https://github.com/VandyHacks/vaken/issues/692) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+1. 🎉 Merged PR [#2581](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2581) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+2. 🗣 Commented on [#692](https://github.com/VandyHacks/vaken/issues/692) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+3. 💪 Opened PR [#54](https://github.com/SwagLyrics/SwagLyrics-discord-bot/pull/54) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com/SwagLyrics/SwagLyrics-discord-bot)
 4. 🗣 Commented on [#692](https://github.com/VandyHacks/vaken/issues/692) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
-5. 🗣 Commented on [#53](https://github.com/VandyHacks/2020-website/issues/53) in [VandyHacks/2020-website](https://github.com/VandyHacks/2020-website)
+5. 🗣 Commented on [#692](https://github.com/VandyHacks/vaken/issues/692) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
 <!--END_SECTION:activity-->
