@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/VandyHacks/vh-guide-pipeline/pull/30) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
-2. 🗣 Commented on [#24](https://github.com/VandyHacks/vh-guide-pipeline/issues/24) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
-3. 🗣 Commented on [#24](https://github.com/VandyHacks/vh-guide-pipeline/issues/24) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
-4. 🗣 Commented on [#27](https://github.com/VandyHacks/vh-guide-pipeline/issues/27) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
-5. 🗣 Commented on [#58](https://github.com/SwagLyrics/SwagLyrics-discord-bot/issues/58) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com/SwagLyrics/SwagLyrics-discord-bot)
+1. 🗣 Commented on [#31](https://github.com/VandyHacks/vh-guide-pipeline/issues/31) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
+2. ❗️ Closed issue [#2](https://github.com/VandyHacks/vh-guide-pipeline/issues/2) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
+3. 🗣 Commented on [#2](https://github.com/VandyHacks/vh-guide-pipeline/issues/2) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
+4. 🎉 Merged PR [#31](https://github.com/VandyHacks/vh-guide-pipeline/pull/31) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
+5. 🗣 Commented on [#31](https://github.com/VandyHacks/vh-guide-pipeline/issues/31) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
 <!--END_SECTION:activity-->
