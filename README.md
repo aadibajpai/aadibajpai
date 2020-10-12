@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/aadibajpai/blog/pull/5) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
-2. 🗣 Commented on [#6](https://github.com/aadibajpai/blog/issues/6) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
-3. 🗣 Commented on [#32](https://github.com/VandyHacks/vh-guide-pipeline/issues/32) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
-4. 💪 Opened PR [#32](https://github.com/VandyHacks/vh-guide-pipeline/pull/32) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
-5. 💪 Opened PR [#5](https://github.com/skorokithakis/imgur-uploader/pull/5) in [skorokithakis/imgur-uploader](https://github.com/skorokithakis/imgur-uploader)
+1. 🎉 Merged PR [#2597](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2597) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+2. ❌ Closed PR [#5](https://github.com/aadibajpai/blog/pull/5) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
+3. 🗣 Commented on [#6](https://github.com/aadibajpai/blog/issues/6) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
+4. 🗣 Commented on [#32](https://github.com/VandyHacks/vh-guide-pipeline/issues/32) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
+5. 💪 Opened PR [#32](https://github.com/VandyHacks/vh-guide-pipeline/pull/32) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
 <!--END_SECTION:activity-->
