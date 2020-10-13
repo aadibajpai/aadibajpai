@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/bryanbraun/anchorjs/issues/139) in [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs)
+1. ❗️ Opened issue [#7](https://github.com/VandyHacks/the-squirrel-from-VandyHacks/issues/7) in [VandyHacks/the-squirrel-from-VandyHacks](https://github.com/VandyHacks/the-squirrel-from-VandyHacks)
 2. 🗣 Commented on [#139](https://github.com/bryanbraun/anchorjs/issues/139) in [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs)
-3. ❌ Closed PR [#6](https://github.com/aadibajpai/blog/pull/6) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
-4. 🗣 Commented on [#6](https://github.com/aadibajpai/blog/issues/6) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
-5. 🎉 Merged PR [#2597](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2597) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+3. 🗣 Commented on [#139](https://github.com/bryanbraun/anchorjs/issues/139) in [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs)
+4. ❌ Closed PR [#6](https://github.com/aadibajpai/blog/pull/6) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
+5. 🗣 Commented on [#6](https://github.com/aadibajpai/blog/issues/6) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
 <!--END_SECTION:activity-->
