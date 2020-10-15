@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2451](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2451) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-2. 🗣 Commented on [#2451](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2451) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-3. 🎉 Merged PR [#2627](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2627) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-4. 🗣 Commented on [#34](https://github.com/VandyHacks/vh-guide-pipeline/issues/34) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
-5. ❌ Reopened PR [#34](https://github.com/VandyHacks/vh-guide-pipeline/pull/34) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
+1. 🗣 Commented on [#10](https://github.com/faustocarrera/imgur-python/issues/10) in [faustocarrera/imgur-python](https://github.com/faustocarrera/imgur-python)
+2. ❌ Closed PR [#2451](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2451) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+3. 🗣 Commented on [#2451](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2451) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+4. 🎉 Merged PR [#2627](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2627) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+5. 🗣 Commented on [#34](https://github.com/VandyHacks/vh-guide-pipeline/issues/34) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
 <!--END_SECTION:activity-->
