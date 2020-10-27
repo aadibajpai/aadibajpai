@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/VandyHacks/the-squirrel-from-VandyHacks/issues/9) in [VandyHacks/the-squirrel-from-VandyHacks](https://github.com/VandyHacks/the-squirrel-from-VandyHacks)
-2. 🗣 Commented on [#8](https://github.com/VandyHacks/the-squirrel-from-VandyHacks/issues/8) in [VandyHacks/the-squirrel-from-VandyHacks](https://github.com/VandyHacks/the-squirrel-from-VandyHacks)
-3. ❗️ Opened issue [#8](https://github.com/VandyHacks/the-squirrel-from-VandyHacks/issues/8) in [VandyHacks/the-squirrel-from-VandyHacks](https://github.com/VandyHacks/the-squirrel-from-VandyHacks)
-4. 🎉 Merged PR [#24](https://github.com/SwagLyrics/SwSpotify/pull/24) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
-5. 🗣 Commented on [#85](https://github.com/jiangmiao/auto-pairs/issues/85) in [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs)
+1. 🎉 Merged PR [#35](https://github.com/VandyHacks/vh-guide-pipeline/pull/35) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
+2. 💪 Opened PR [#35](https://github.com/VandyHacks/vh-guide-pipeline/pull/35) in [VandyHacks/vh-guide-pipeline](https://github.com/VandyHacks/vh-guide-pipeline)
+3. ❗️ Opened issue [#9](https://github.com/VandyHacks/the-squirrel-from-VandyHacks/issues/9) in [VandyHacks/the-squirrel-from-VandyHacks](https://github.com/VandyHacks/the-squirrel-from-VandyHacks)
+4. 🗣 Commented on [#8](https://github.com/VandyHacks/the-squirrel-from-VandyHacks/issues/8) in [VandyHacks/the-squirrel-from-VandyHacks](https://github.com/VandyHacks/the-squirrel-from-VandyHacks)
+5. ❗️ Opened issue [#8](https://github.com/VandyHacks/the-squirrel-from-VandyHacks/issues/8) in [VandyHacks/the-squirrel-from-VandyHacks](https://github.com/VandyHacks/the-squirrel-from-VandyHacks)
 <!--END_SECTION:activity-->
