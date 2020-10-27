@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/jiangmiao/auto-pairs/issues/85) in [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs)
-2. 🗣 Commented on [#4144](https://github.com/microsoft/WSL/issues/4144) in [microsoft/WSL](https://github.com/microsoft/WSL)
-3. 🗣 Commented on [#3395](https://github.com/dense-analysis/ale/issues/3395) in [dense-analysis/ale](https://github.com/dense-analysis/ale)
-4. 💪 Opened PR [#29](https://github.com/NilsIrl/MozWire/pull/29) in [NilsIrl/MozWire](https://github.com/NilsIrl/MozWire)
-5. 🗣 Commented on [#10](https://github.com/faustocarrera/imgur-python/issues/10) in [faustocarrera/imgur-python](https://github.com/faustocarrera/imgur-python)
+1. 🎉 Merged PR [#24](https://github.com/SwagLyrics/SwSpotify/pull/24) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+2. 🗣 Commented on [#85](https://github.com/jiangmiao/auto-pairs/issues/85) in [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs)
+3. 🗣 Commented on [#4144](https://github.com/microsoft/WSL/issues/4144) in [microsoft/WSL](https://github.com/microsoft/WSL)
+4. 🗣 Commented on [#3395](https://github.com/dense-analysis/ale/issues/3395) in [dense-analysis/ale](https://github.com/dense-analysis/ale)
+5. 💪 Opened PR [#29](https://github.com/NilsIrl/MozWire/pull/29) in [NilsIrl/MozWire](https://github.com/NilsIrl/MozWire)
 <!--END_SECTION:activity-->
