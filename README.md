@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](https://github.com/SwagLyrics/SwagLyrics-discord-bot/pull/69) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com/SwagLyrics/SwagLyrics-discord-bot)
-2. 💪 Opened PR [#68](https://github.com/SwagLyrics/SwagLyrics-discord-bot/pull/68) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com/SwagLyrics/SwagLyrics-discord-bot)
-3. 🎉 Merged PR [#14](https://github.com/aadibajpai/my-website/pull/14) in [aadibajpai/my-website](https://github.com/aadibajpai/my-website)
-4. 💪 Opened PR [#14](https://github.com/aadibajpai/my-website/pull/14) in [aadibajpai/my-website](https://github.com/aadibajpai/my-website)
-5. 🎉 Merged PR [#2664](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2664) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+1. ❗️ Closed issue [#26](https://github.com/SwagLyrics/SwagLyrics-discord-bot/issues/26) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com/SwagLyrics/SwagLyrics-discord-bot)
+2. 🗣 Commented on [#26](https://github.com/SwagLyrics/SwagLyrics-discord-bot/issues/26) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com/SwagLyrics/SwagLyrics-discord-bot)
+3. 💪 Opened PR [#69](https://github.com/SwagLyrics/SwagLyrics-discord-bot/pull/69) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com/SwagLyrics/SwagLyrics-discord-bot)
+4. 💪 Opened PR [#68](https://github.com/SwagLyrics/SwagLyrics-discord-bot/pull/68) in [SwagLyrics/SwagLyrics-discord-bot](https://github.com/SwagLyrics/SwagLyrics-discord-bot)
+5. 🎉 Merged PR [#14](https://github.com/aadibajpai/my-website/pull/14) in [aadibajpai/my-website](https://github.com/aadibajpai/my-website)
 <!--END_SECTION:activity-->
