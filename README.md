@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2689](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2689) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-2. ❗️ Closed issue [#2687](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2687) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-3. 🗣 Commented on [#2687](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2687) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-4. 🗣 Commented on [#2682](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2682) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-5. 💪 Opened PR [#3385](https://github.com/python-poetry/poetry/pull/3385) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+1. 🗣 Commented on [#2691](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2691) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+2. ❗️ Closed issue [#2692](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2692) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+3. 🗣 Commented on [#2692](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2692) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+4. ❗️ Closed issue [#2689](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2689) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+5. ❗️ Closed issue [#2687](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2687) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
 <!--END_SECTION:activity-->
