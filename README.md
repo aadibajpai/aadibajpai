@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2736](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2736) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+1. ❗️ Closed issue [#64](https://github.com/SwagLyrics/autosynch/issues/64) in [SwagLyrics/autosynch](https://github.com/SwagLyrics/autosynch)
 2. 🗣 Commented on [#64](https://github.com/SwagLyrics/autosynch/issues/64) in [SwagLyrics/autosynch](https://github.com/SwagLyrics/autosynch)
-3. ❗️ Closed issue [#2734](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2734) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-4. ❗️ Closed issue [#2733](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2733) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-5. 💪 Opened PR [#6](https://github.com/thesephist/unim.press/pull/6) in [thesephist/unim.press](https://github.com/thesephist/unim.press)
+3. ❗️ Closed issue [#2736](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2736) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+4. 🗣 Commented on [#64](https://github.com/SwagLyrics/autosynch/issues/64) in [SwagLyrics/autosynch](https://github.com/SwagLyrics/autosynch)
+5. ❗️ Closed issue [#2734](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2734) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
 <!--END_SECTION:activity-->
