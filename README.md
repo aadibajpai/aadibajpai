@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#768](https://github.com/VandyHacks/vaken/pull/768) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
-2. 🎉 Merged PR [#766](https://github.com/VandyHacks/vaken/pull/766) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
-3. 💪 Opened PR [#768](https://github.com/VandyHacks/vaken/pull/768) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
-4. 🗣 Commented on [#747](https://github.com/VandyHacks/vaken/issues/747) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+1. 🗣 Commented on [#656](https://github.com/VandyHacks/vaken/issues/656) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+2. 🎉 Merged PR [#768](https://github.com/VandyHacks/vaken/pull/768) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+3. 🎉 Merged PR [#766](https://github.com/VandyHacks/vaken/pull/766) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+4. 💪 Opened PR [#768](https://github.com/VandyHacks/vaken/pull/768) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
 5. 🗣 Commented on [#747](https://github.com/VandyHacks/vaken/issues/747) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
 <!--END_SECTION:activity-->
