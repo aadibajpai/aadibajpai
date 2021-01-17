@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/VandyHacks/nimbus/issues/1) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
-2. 🗣 Commented on [#2](https://github.com/VandyHacks/nimbus/issues/2) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
-3. 🎉 Merged PR [#27](https://github.com/VandyHacks/cross-year-website/pull/27) in [VandyHacks/cross-year-website](https://github.com/VandyHacks/cross-year-website)
-4. ❗️ Closed issue [#2755](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2755) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-5. 🗣 Commented on [#2755](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2755) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+1. 🗣 Commented on [#796](https://github.com/VandyHacks/vaken/issues/796) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+2. 🎉 Merged PR [#796](https://github.com/VandyHacks/vaken/pull/796) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+3. 🗣 Commented on [#796](https://github.com/VandyHacks/vaken/issues/796) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+4. 🗣 Commented on [#1](https://github.com/VandyHacks/nimbus/issues/1) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
+5. 🗣 Commented on [#2](https://github.com/VandyHacks/nimbus/issues/2) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
 <!--END_SECTION:activity-->
