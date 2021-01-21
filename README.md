@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#797](https://github.com/VandyHacks/vaken/pull/797) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
-2. 🗣 Commented on [#2768](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2768) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-3. ❗️ Closed issue [#2768](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2768) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-4. 🗣 Commented on [#2768](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2768) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-5. 🗣 Commented on [#661](https://github.com/VandyHacks/vaken/issues/661) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+1. 🗣 Commented on [#86](https://github.com/VandyHacks/proxima/issues/86) in [VandyHacks/proxima](https://github.com/VandyHacks/proxima)
+2. 💪 Opened PR [#797](https://github.com/VandyHacks/vaken/pull/797) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+3. 🗣 Commented on [#2768](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2768) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+4. ❗️ Closed issue [#2768](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2768) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+5. 🗣 Commented on [#2768](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2768) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
 <!--END_SECTION:activity-->
