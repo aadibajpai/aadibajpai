@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2859](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2859) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-2. 💪 Opened PR [#5](https://github.com/VandyHacks/nimbus/pull/5) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
-3. 🎉 Merged PR [#17](https://github.com/aadibajpai/VandyPurger/pull/17) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
-4. 🎉 Merged PR [#16](https://github.com/aadibajpai/VandyPurger/pull/16) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
-5. 🎉 Merged PR [#797](https://github.com/VandyHacks/vaken/pull/797) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+1. ❗️ Opened issue [#7](https://github.com/VandyHacks/nimbus/issues/7) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
+2. 🗣 Commented on [#2859](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2859) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+3. 💪 Opened PR [#5](https://github.com/VandyHacks/nimbus/pull/5) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
+4. 🎉 Merged PR [#17](https://github.com/aadibajpai/VandyPurger/pull/17) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
+5. 🎉 Merged PR [#16](https://github.com/aadibajpai/VandyPurger/pull/16) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
 <!--END_SECTION:activity-->
