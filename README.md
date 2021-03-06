@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/VandyHacks/nimbus/pull/10) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
-2. 🗣 Commented on [#10](https://github.com/VandyHacks/nimbus/issues/10) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
-3. 🎉 Merged PR [#4](https://github.com/VandyHacks/vhl.ink/pull/4) in [VandyHacks/vhl.ink](https://github.com/VandyHacks/vhl.ink)
-4. 🎉 Merged PR [#6](https://github.com/VandyHacks/nimbus/pull/6) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
-5. ❗️ Closed issue [#2](https://github.com/VandyHacks/nimbus/issues/2) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
+1. 💪 Opened PR [#5](https://github.com/VandyHacks/vhl.ink/pull/5) in [VandyHacks/vhl.ink](https://github.com/VandyHacks/vhl.ink)
+2. 🗣 Commented on [#2860](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2860) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+3. 🎉 Merged PR [#10](https://github.com/VandyHacks/nimbus/pull/10) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
+4. 🗣 Commented on [#10](https://github.com/VandyHacks/nimbus/issues/10) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
+5. 🎉 Merged PR [#4](https://github.com/VandyHacks/vhl.ink/pull/4) in [VandyHacks/vhl.ink](https://github.com/VandyHacks/vhl.ink)
 <!--END_SECTION:activity-->
