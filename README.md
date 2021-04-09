@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/VandyHacks/nimbus/issues/11) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
-2. 🎉 Merged PR [#11](https://github.com/VandyHacks/nimbus/pull/11) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
-3. 🗣 Commented on [#7](https://github.com/VandyHacks/vhl.ink/issues/7) in [VandyHacks/vhl.ink](https://github.com/VandyHacks/vhl.ink)
-4. 🎉 Merged PR [#7](https://github.com/VandyHacks/vhl.ink/pull/7) in [VandyHacks/vhl.ink](https://github.com/VandyHacks/vhl.ink)
-5. ❗️ Closed issue [#335](https://github.com/CCExtractor/sample-platform/issues/335) in [CCExtractor/sample-platform](https://github.com/CCExtractor/sample-platform)
+1. 💪 Opened PR [#7](https://github.com/CCExtractor/website/pull/7) in [CCExtractor/website](https://github.com/CCExtractor/website)
+2. 🗣 Commented on [#11](https://github.com/VandyHacks/nimbus/issues/11) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
+3. 🎉 Merged PR [#11](https://github.com/VandyHacks/nimbus/pull/11) in [VandyHacks/nimbus](https://github.com/VandyHacks/nimbus)
+4. 🗣 Commented on [#7](https://github.com/VandyHacks/vhl.ink/issues/7) in [VandyHacks/vhl.ink](https://github.com/VandyHacks/vhl.ink)
+5. 🎉 Merged PR [#7](https://github.com/VandyHacks/vhl.ink/pull/7) in [VandyHacks/vhl.ink](https://github.com/VandyHacks/vhl.ink)
 <!--END_SECTION:activity-->
