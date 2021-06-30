@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/VandyHacks/vhl.ink/issues/9) in [VandyHacks/vhl.ink](https://github.com/VandyHacks/vhl.ink)
-2. 🗣 Commented on [#3405](https://github.com/kovidgoyal/kitty/issues/3405) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+1. 🗣 Commented on [#395](https://github.com/opendatacam/opendatacam/issues/395) in [opendatacam/opendatacam](https://github.com/opendatacam/opendatacam)
+2. 🗣 Commented on [#9](https://github.com/VandyHacks/vhl.ink/issues/9) in [VandyHacks/vhl.ink](https://github.com/VandyHacks/vhl.ink)
 3. 🗣 Commented on [#3405](https://github.com/kovidgoyal/kitty/issues/3405) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
 4. 🗣 Commented on [#3405](https://github.com/kovidgoyal/kitty/issues/3405) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-5. 🎉 Merged PR [#31](https://github.com/SwagLyrics/SwSpotify/pull/31) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+5. 🗣 Commented on [#3405](https://github.com/kovidgoyal/kitty/issues/3405) in [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
 <!--END_SECTION:activity-->
