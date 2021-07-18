@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/VandyHacks/2021-placeholder/pull/8) in [VandyHacks/2021-placeholder](https://github.com/VandyHacks/2021-placeholder)
-2. 🎉 Merged PR [#10](https://github.com/NSFOpenData/backend/pull/10) in [NSFOpenData/backend](https://github.com/NSFOpenData/backend)
-3. 🎉 Merged PR [#11](https://github.com/NSFOpenData/backend/pull/11) in [NSFOpenData/backend](https://github.com/NSFOpenData/backend)
-4. 🎉 Merged PR [#19](https://github.com/aadibajpai/VandyPurger/pull/19) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
-5. 🗣 Commented on [#19](https://github.com/aadibajpai/VandyPurger/issues/19) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
+1. 🗣 Commented on [#32](https://github.com/SwagLyrics/SwSpotify/issues/32) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+2. 💪 Opened PR [#32](https://github.com/SwagLyrics/SwSpotify/pull/32) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+3. 🎉 Merged PR [#8](https://github.com/VandyHacks/2021-placeholder/pull/8) in [VandyHacks/2021-placeholder](https://github.com/VandyHacks/2021-placeholder)
+4. 🎉 Merged PR [#10](https://github.com/NSFOpenData/backend/pull/10) in [NSFOpenData/backend](https://github.com/NSFOpenData/backend)
+5. 🎉 Merged PR [#11](https://github.com/NSFOpenData/backend/pull/11) in [NSFOpenData/backend](https://github.com/NSFOpenData/backend)
 <!--END_SECTION:activity-->
