@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/aadibajpai/VandyPurger/pull/22) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
-2. 🗣 Commented on [#9](https://github.com/VandyHacks/2021-placeholder/issues/9) in [VandyHacks/2021-placeholder](https://github.com/VandyHacks/2021-placeholder)
-3. 🗣 Commented on [#22](https://github.com/aadibajpai/VandyPurger/issues/22) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
-4. 💪 Opened PR [#9](https://github.com/VandyHacks/2021-placeholder/pull/9) in [VandyHacks/2021-placeholder](https://github.com/VandyHacks/2021-placeholder)
-5. 🎉 Merged PR [#21](https://github.com/aadibajpai/VandyPurger/pull/21) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
+1. 🗣 Commented on [#23](https://github.com/aadibajpai/VandyPurger/issues/23) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
+2. 🎉 Merged PR [#22](https://github.com/aadibajpai/VandyPurger/pull/22) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
+3. 🗣 Commented on [#9](https://github.com/VandyHacks/2021-placeholder/issues/9) in [VandyHacks/2021-placeholder](https://github.com/VandyHacks/2021-placeholder)
+4. 🗣 Commented on [#22](https://github.com/aadibajpai/VandyPurger/issues/22) in [aadibajpai/VandyPurger](https://github.com/aadibajpai/VandyPurger)
+5. 💪 Opened PR [#9](https://github.com/VandyHacks/2021-placeholder/pull/9) in [VandyHacks/2021-placeholder](https://github.com/VandyHacks/2021-placeholder)
 <!--END_SECTION:activity-->
