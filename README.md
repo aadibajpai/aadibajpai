@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#837](https://github.com/VandyHacks/vaken/pull/837) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
-2. 🗣 Commented on [#837](https://github.com/VandyHacks/vaken/issues/837) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
-3. 🗣 Commented on [#838](https://github.com/VandyHacks/vaken/issues/838) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
-4. 💪 Opened PR [#837](https://github.com/VandyHacks/vaken/pull/837) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
-5. 🎉 Merged PR [#7](https://github.com/VandyHacks/vh8-promo-site/pull/7) in [VandyHacks/vh8-promo-site](https://github.com/VandyHacks/vh8-promo-site)
+1. 🗣 Commented on [#10](https://github.com/VandyHacks/the-squirrel-from-VandyHacks/issues/10) in [VandyHacks/the-squirrel-from-VandyHacks](https://github.com/VandyHacks/the-squirrel-from-VandyHacks)
+2. 🎉 Merged PR [#10](https://github.com/VandyHacks/the-squirrel-from-VandyHacks/pull/10) in [VandyHacks/the-squirrel-from-VandyHacks](https://github.com/VandyHacks/the-squirrel-from-VandyHacks)
+3. 🎉 Merged PR [#837](https://github.com/VandyHacks/vaken/pull/837) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+4. 🗣 Commented on [#837](https://github.com/VandyHacks/vaken/issues/837) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
+5. 🗣 Commented on [#838](https://github.com/VandyHacks/vaken/issues/838) in [VandyHacks/vaken](https://github.com/VandyHacks/vaken)
 <!--END_SECTION:activity-->
