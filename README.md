@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/VandyHacks/vh8-promo-site/pull/17) in [VandyHacks/vh8-promo-site](https://github.com/VandyHacks/vh8-promo-site)
-2. 🎉 Merged PR [#38](https://github.com/SwagLyrics/SwSpotify/pull/38) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
-3. 🎉 Merged PR [#37](https://github.com/SwagLyrics/SwSpotify/pull/37) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
-4. 🎉 Merged PR [#36](https://github.com/SwagLyrics/SwSpotify/pull/36) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
-5. 🎉 Merged PR [#35](https://github.com/SwagLyrics/SwSpotify/pull/35) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+1. ❗️ Opened issue [#145314](https://github.com/NixOS/nixpkgs/issues/145314) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🎉 Merged PR [#17](https://github.com/VandyHacks/vh8-promo-site/pull/17) in [VandyHacks/vh8-promo-site](https://github.com/VandyHacks/vh8-promo-site)
+3. 🎉 Merged PR [#38](https://github.com/SwagLyrics/SwSpotify/pull/38) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+4. 🎉 Merged PR [#37](https://github.com/SwagLyrics/SwSpotify/pull/37) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+5. 🎉 Merged PR [#36](https://github.com/SwagLyrics/SwSpotify/pull/36) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
 <!--END_SECTION:activity-->
