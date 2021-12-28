@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#152304](https://github.com/NixOS/nixpkgs/pull/152304) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#152300](https://github.com/NixOS/nixpkgs/issues/152300) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 💪 Opened PR [#152032](https://github.com/NixOS/nixpkgs/pull/152032) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. ❗️ Opened issue [#14](https://github.com/haslersn/any-nix-shell/issues/14) in [haslersn/any-nix-shell](https://github.com/haslersn/any-nix-shell)
-5. 🗣 Commented on [#2879](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2879) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+1. 🗣 Commented on [#73](https://github.com/CCExtractor/beacon-backend/issues/73) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+2. 💪 Opened PR [#152304](https://github.com/NixOS/nixpkgs/pull/152304) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#152300](https://github.com/NixOS/nixpkgs/issues/152300) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 💪 Opened PR [#152032](https://github.com/NixOS/nixpkgs/pull/152032) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❗️ Opened issue [#14](https://github.com/haslersn/any-nix-shell/issues/14) in [haslersn/any-nix-shell](https://github.com/haslersn/any-nix-shell)
 <!--END_SECTION:activity-->
