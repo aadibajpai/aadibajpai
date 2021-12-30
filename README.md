@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/CCExtractor/beacon-backend/issues/74) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-2. 🗣 Commented on [#76](https://github.com/CCExtractor/beacon-backend/issues/76) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+1. 💪 Opened PR [#7](https://github.com/aadibajpai/blog/pull/7) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
+2. 🗣 Commented on [#74](https://github.com/CCExtractor/beacon-backend/issues/74) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
 3. 🗣 Commented on [#76](https://github.com/CCExtractor/beacon-backend/issues/76) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-4. 🗣 Commented on [#71](https://github.com/CCExtractor/beacon-backend/issues/71) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-5. 🗣 Commented on [#74](https://github.com/CCExtractor/beacon-backend/issues/74) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+4. 🗣 Commented on [#76](https://github.com/CCExtractor/beacon-backend/issues/76) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+5. 🗣 Commented on [#71](https://github.com/CCExtractor/beacon-backend/issues/71) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
 <!--END_SECTION:activity-->
