@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/thesephist/unim.press/pull/8) in [thesephist/unim.press](https://github.com/thesephist/unim.press)
-2. 🎉 Merged PR [#7](https://github.com/aadibajpai/blog/pull/7) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
-3. 💪 Opened PR [#7](https://github.com/aadibajpai/blog/pull/7) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
-4. 🗣 Commented on [#74](https://github.com/CCExtractor/beacon-backend/issues/74) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-5. 🗣 Commented on [#76](https://github.com/CCExtractor/beacon-backend/issues/76) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+1. ❌ Closed PR [#2867](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2867) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+2. 💪 Opened PR [#8](https://github.com/thesephist/unim.press/pull/8) in [thesephist/unim.press](https://github.com/thesephist/unim.press)
+3. 🎉 Merged PR [#7](https://github.com/aadibajpai/blog/pull/7) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
+4. 💪 Opened PR [#7](https://github.com/aadibajpai/blog/pull/7) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
+5. 🗣 Commented on [#74](https://github.com/CCExtractor/beacon-backend/issues/74) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
 <!--END_SECTION:activity-->
