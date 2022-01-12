@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#598](https://github.com/codecov/codecov-action/issues/598) in [codecov/codecov-action](https://github.com/codecov/codecov-action)
-2. 🎉 Merged PR [#39](https://github.com/SwagLyrics/SwSpotify/pull/39) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
-3. ❌ Closed PR [#2867](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2867) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
-4. 💪 Opened PR [#8](https://github.com/thesephist/unim.press/pull/8) in [thesephist/unim.press](https://github.com/thesephist/unim.press)
-5. 🎉 Merged PR [#7](https://github.com/aadibajpai/blog/pull/7) in [aadibajpai/blog](https://github.com/aadibajpai/blog)
+1. 🎉 Merged PR [#41](https://github.com/SwagLyrics/SwSpotify/pull/41) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+2. 🗣 Commented on [#598](https://github.com/codecov/codecov-action/issues/598) in [codecov/codecov-action](https://github.com/codecov/codecov-action)
+3. 🎉 Merged PR [#39](https://github.com/SwagLyrics/SwSpotify/pull/39) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+4. ❌ Closed PR [#2867](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2867) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+5. 💪 Opened PR [#8](https://github.com/thesephist/unim.press/pull/8) in [thesephist/unim.press](https://github.com/thesephist/unim.press)
 <!--END_SECTION:activity-->
