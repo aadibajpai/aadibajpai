@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/CCExtractor/beacon-backend/issues/89) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-2. ❗️ Opened issue [#247](https://github.com/faker-js/faker/issues/247) in [faker-js/faker](https://github.com/faker-js/faker)
-3. 🎉 Merged PR [#74](https://github.com/CCExtractor/beacon-backend/pull/74) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-4. ❗️ Closed issue [#73](https://github.com/CCExtractor/beacon-backend/issues/73) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-5. 🗣 Commented on [#3862](https://github.com/NixOS/nix/issues/3862) in [NixOS/nix](https://github.com/NixOS/nix)
+1. 🗣 Commented on [#91](https://github.com/CCExtractor/beacon-backend/issues/91) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+2. 🎉 Merged PR [#91](https://github.com/CCExtractor/beacon-backend/pull/91) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+3. ❗️ Closed issue [#75](https://github.com/CCExtractor/beacon-backend/issues/75) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+4. 🗣 Commented on [#89](https://github.com/CCExtractor/beacon-backend/issues/89) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+5. ❗️ Opened issue [#247](https://github.com/faker-js/faker/issues/247) in [faker-js/faker](https://github.com/faker-js/faker)
 <!--END_SECTION:activity-->
