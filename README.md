@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/VandyHacks/vh8-promo-site/issues/8) in [VandyHacks/vh8-promo-site](https://github.com/VandyHacks/vh8-promo-site)
-2. ❗️ Closed issue [#78](https://github.com/CCExtractor/beacon-backend/issues/78) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-3. 🗣 Commented on [#93](https://github.com/CCExtractor/beacon-backend/issues/93) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-4. ❌ Closed PR [#93](https://github.com/CCExtractor/beacon-backend/pull/93) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+1. 🗣 Commented on [#97](https://github.com/CCExtractor/beacon-backend/issues/97) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+2. 🗣 Commented on [#98](https://github.com/CCExtractor/beacon-backend/issues/98) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+3. 🗣 Commented on [#8](https://github.com/VandyHacks/vh8-promo-site/issues/8) in [VandyHacks/vh8-promo-site](https://github.com/VandyHacks/vh8-promo-site)
+4. ❗️ Closed issue [#78](https://github.com/CCExtractor/beacon-backend/issues/78) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
 5. 🗣 Commented on [#93](https://github.com/CCExtractor/beacon-backend/issues/93) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
 <!--END_SECTION:activity-->
