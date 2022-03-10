@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/tiki/website/pull/50) in [tiki/website](https://github.com/tiki/website)
-2. ❗️ Closed issue [#6](https://github.com/SwagLyrics/SwSpotify/issues/6) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
-3. 🗣 Commented on [#6](https://github.com/SwagLyrics/SwSpotify/issues/6) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
-4. ❗️ Closed issue [#30](https://github.com/SwagLyrics/SwSpotify/issues/30) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
-5. 🗣 Commented on [#30](https://github.com/SwagLyrics/SwSpotify/issues/30) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+1. 💪 Opened PR [#3](https://github.com/aadibajpai/hustler/pull/3) in [aadibajpai/hustler](https://github.com/aadibajpai/hustler)
+2. 💪 Opened PR [#50](https://github.com/tiki/website/pull/50) in [tiki/website](https://github.com/tiki/website)
+3. ❗️ Closed issue [#6](https://github.com/SwagLyrics/SwSpotify/issues/6) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+4. 🗣 Commented on [#6](https://github.com/SwagLyrics/SwSpotify/issues/6) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
+5. ❗️ Closed issue [#30](https://github.com/SwagLyrics/SwSpotify/issues/30) in [SwagLyrics/SwSpotify](https://github.com/SwagLyrics/SwSpotify)
 <!--END_SECTION:activity-->
