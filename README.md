@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/CCExtractor/beacon-backend/pull/119) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-2. 🎉 Merged PR [#120](https://github.com/CCExtractor/beacon-backend/pull/120) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-3. 🎉 Merged PR [#94](https://github.com/CCExtractor/beacon-backend/pull/94) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-4. 🎉 Merged PR [#118](https://github.com/CCExtractor/beacon-backend/pull/118) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-5. 🎉 Merged PR [#122](https://github.com/CCExtractor/beacon-backend/pull/122) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+1. 🎉 Merged PR [#2878](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2878) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+2. 🗣 Commented on [#2893](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/issues/2893) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+3. 🎉 Merged PR [#119](https://github.com/CCExtractor/beacon-backend/pull/119) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+4. 🎉 Merged PR [#120](https://github.com/CCExtractor/beacon-backend/pull/120) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+5. 🎉 Merged PR [#94](https://github.com/CCExtractor/beacon-backend/pull/94) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
 <!--END_SECTION:activity-->
