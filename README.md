@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/ChangePlusPlusVandy/pencil-backend/issues/26) in [ChangePlusPlusVandy/pencil-backend](https://github.com/ChangePlusPlusVandy/pencil-backend)
-2. 💪 Opened PR [#26](https://github.com/ChangePlusPlusVandy/pencil-backend/pull/26) in [ChangePlusPlusVandy/pencil-backend](https://github.com/ChangePlusPlusVandy/pencil-backend)
-3. 🗣 Commented on [#152](https://github.com/VandyHacks/witness/issues/152) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-4. 💪 Opened PR [#148](https://github.com/VandyHacks/witness/pull/148) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-5. 🎉 Merged PR [#2897](https://github.com/SwagLyrics/SwagLyrics-For-Spotify/pull/2897) in [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify)
+1. ❗️ Closed issue [#128](https://github.com/CCExtractor/beacon-backend/issues/128) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+2. 🗣 Commented on [#128](https://github.com/CCExtractor/beacon-backend/issues/128) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
+3. 🗣 Commented on [#26](https://github.com/ChangePlusPlusVandy/pencil-backend/issues/26) in [ChangePlusPlusVandy/pencil-backend](https://github.com/ChangePlusPlusVandy/pencil-backend)
+4. 💪 Opened PR [#26](https://github.com/ChangePlusPlusVandy/pencil-backend/pull/26) in [ChangePlusPlusVandy/pencil-backend](https://github.com/ChangePlusPlusVandy/pencil-backend)
+5. 🗣 Commented on [#152](https://github.com/VandyHacks/witness/issues/152) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 <!--END_SECTION:activity-->
