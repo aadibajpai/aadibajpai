@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#128](https://github.com/CCExtractor/beacon-backend/issues/128) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-2. 🗣 Commented on [#128](https://github.com/CCExtractor/beacon-backend/issues/128) in [CCExtractor/beacon-backend](https://github.com/CCExtractor/beacon-backend)
-3. 🗣 Commented on [#26](https://github.com/ChangePlusPlusVandy/pencil-backend/issues/26) in [ChangePlusPlusVandy/pencil-backend](https://github.com/ChangePlusPlusVandy/pencil-backend)
-4. 💪 Opened PR [#26](https://github.com/ChangePlusPlusVandy/pencil-backend/pull/26) in [ChangePlusPlusVandy/pencil-backend](https://github.com/ChangePlusPlusVandy/pencil-backend)
-5. 🗣 Commented on [#152](https://github.com/VandyHacks/witness/issues/152) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+1. 🎉 Merged PR [#155](https://github.com/VandyHacks/witness/pull/155) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+2. 🎉 Merged PR [#150](https://github.com/VandyHacks/witness/pull/150) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+3. 🎉 Merged PR [#154](https://github.com/VandyHacks/witness/pull/154) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+4. 🎉 Merged PR [#153](https://github.com/VandyHacks/witness/pull/153) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+5. 🗣 Commented on [#134](https://github.com/VandyHacks/witness/issues/134) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 <!--END_SECTION:activity-->
