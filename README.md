@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#117](https://github.com/VandyHacks/witness/issues/117) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-2. 🗣 Commented on [#117](https://github.com/VandyHacks/witness/issues/117) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-3. 💪 Opened PR [#156](https://github.com/VandyHacks/witness/pull/156) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-4. 🎉 Merged PR [#149](https://github.com/VandyHacks/witness/pull/149) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-5. 🎉 Merged PR [#155](https://github.com/VandyHacks/witness/pull/155) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+1. 🗣 Commented on [#134](https://github.com/VandyHacks/witness/issues/134) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+2. ❗️ Closed issue [#117](https://github.com/VandyHacks/witness/issues/117) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+3. 🗣 Commented on [#117](https://github.com/VandyHacks/witness/issues/117) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+4. 💪 Opened PR [#156](https://github.com/VandyHacks/witness/pull/156) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+5. 🎉 Merged PR [#149](https://github.com/VandyHacks/witness/pull/149) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 <!--END_SECTION:activity-->
