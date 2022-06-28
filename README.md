@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#196](https://github.com/VandyHacks/witness/issues/196) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+1. 🗣 Commented on [#195](https://github.com/VandyHacks/witness/issues/195) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 2. 🗣 Commented on [#195](https://github.com/VandyHacks/witness/issues/195) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 3. 🗣 Commented on [#195](https://github.com/VandyHacks/witness/issues/195) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-4. 🎉 Merged PR [#191](https://github.com/VandyHacks/witness/pull/191) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-5. 🎉 Merged PR [#192](https://github.com/VandyHacks/witness/pull/192) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+4. 🗣 Commented on [#196](https://github.com/VandyHacks/witness/issues/196) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+5. 🗣 Commented on [#195](https://github.com/VandyHacks/witness/issues/195) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 <!--END_SECTION:activity-->
