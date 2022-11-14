@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/8) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
-2. ❗️ Opened issue [#7](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/7) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
-3. ❗️ Opened issue [#6](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/6) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
-4. 💪 Opened PR [#328](https://github.com/VandyHacks/witness/pull/328) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-5. 🎉 Merged PR [#29](https://github.com/VandyHacks/vh9-promo-site/pull/29) in [VandyHacks/vh9-promo-site](https://github.com/VandyHacks/vh9-promo-site)
+1. 💪 Opened PR [#19](https://github.com/squ1rrel-ctf/squ1rrel.dev/pull/19) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
+2. ❗️ Opened issue [#8](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/8) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
+3. ❗️ Opened issue [#7](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/7) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
+4. ❗️ Opened issue [#6](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/6) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
+5. 💪 Opened PR [#328](https://github.com/VandyHacks/witness/pull/328) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 <!--END_SECTION:activity-->
