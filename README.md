@@ -8,9 +8,9 @@ https://aadibajpai.com probably contains all the info I'd put here.
 
 Recent activity ~~so people can stop saying I do nothing~~:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/41) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
+1. 💪 Opened PR [#1](https://github.com/kyleburgess2025/TwitterBot/pull/1) in [kyleburgess2025/TwitterBot](https://github.com/kyleburgess2025/TwitterBot)
 2. 🗣 Commented on [#41](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/41) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
-3. 🎉 Merged PR [#40](https://github.com/squ1rrel-ctf/squ1rrel.dev/pull/40) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
-4. ❗️ Closed issue [#21](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/21) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
-5. 🗣 Commented on [#21](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/21) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
+3. 🗣 Commented on [#41](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/41) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
+4. 🎉 Merged PR [#40](https://github.com/squ1rrel-ctf/squ1rrel.dev/pull/40) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
+5. ❗️ Closed issue [#21](https://github.com/squ1rrel-ctf/squ1rrel.dev/issues/21) in [squ1rrel-ctf/squ1rrel.dev](https://github.com/squ1rrel-ctf/squ1rrel.dev)
 <!--END_SECTION:activity-->
